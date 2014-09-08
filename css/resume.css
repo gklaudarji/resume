@@ -1,13 +1,4 @@
-div {
-  background-color: red;
-  margin: 0 0 10px 0 ;
-  }
-.location{
-  boarder: 5px solid blue;
-}
-h3 { 
-  color: blue;
-  }
-  section.activities h3 {
-    boarder: yellow;
+body {
+  background-color:light blue;
+  margin: 0 10px ;
   }
