@@ -5,3 +5,9 @@ div {
 .location{
   boarder: 5px solid blue;
 }
+h3 { 
+  color: blue;
+  }
+  section.activities h3 {
+    boarder: 5px yellow;
+  }
