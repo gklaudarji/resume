@@ -6,9 +6,11 @@ body {
    margin: 100px ; 
    border: 40px solid grey;
    Font-family: "Century Schoolbook", century, sarif;
+   opacity:1;
    }
 img{
    opacity:1;
+   fiilter:alpha(opacity=100)
 }
 h2, .address, .email {text-align: center;}
 h2, h3{ 
