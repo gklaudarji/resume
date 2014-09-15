@@ -1,7 +1,8 @@
 body {  
+   width:300px ;
    background-color:#BBFFFF;
    margin: 0 40px ;
-   border: 20px; #5C8A8A
+   border: 20px #5C8A8A
    }
 h1 {text-align: center;
 h4 {color:#B88AE6; }
