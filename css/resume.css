@@ -7,6 +7,6 @@ body {
    Font-family: "Century Schoolbook", century, sarif;
    }
 h2, .address, .email {text-align: center;}
-h4 {color:#333399; }
+.location {color:#333399; }
 h2, h3{ 
    text-decoration: underline;}  
