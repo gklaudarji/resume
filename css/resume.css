@@ -1,6 +1,5 @@
 body {  
-   background-image:url(https://c2.staticflickr.com/6/5500/14646297896_04e073951a_n.jpg);
-   background-size: 100% 100%;
+   background:#C2FFFF;
    padding: 40px;
    Width: 800px #E6E6E6;
    margin: 100px ; 
@@ -8,10 +7,7 @@ body {
    Font-family: "Century Schoolbook", century, sarif;
    opacity:1;
    }
-img{
-   opacity:1;
-   fiilter:alpha(opacity=100)
-}
+
 h2, .address, .email {text-align: center;}
 h2, h3{ 
    text-decoration: underline;}  
