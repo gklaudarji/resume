@@ -1,11 +1,10 @@
 body {  
-   background:#E0F5FF;
    padding: 40px;
    Width: 800px;
    margin: 100px ; 
-   border-width:20px;
+   border-width:10px;
    border-style:double;
-   border-color:#66FFFF;
+   border-color:#006600;
    Font-family: "Century Schoolbook", century, sarif;
    }
 
