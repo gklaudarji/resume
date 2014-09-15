@@ -3,8 +3,8 @@ body {
    padding: 40px;
    Width: 800px;
    margin: 100px ; 
-   border-width:40px;
-   border-style:ridge;
+   border-width:20px;
+   border-style:double;
    border-color:#66FFFF;
    Font-family: "Century Schoolbook", century, sarif;
    }
