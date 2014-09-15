@@ -3,7 +3,7 @@ body {
    padding: 20px;
    Width: 800px #E6E6E6;
    margin: 80px ;
-   border: 40px solid grey
+   border: 40px solid grey;
    Font-family: Century Schoolbook;
    }
 h1, .address, .email {text-align: center;}
