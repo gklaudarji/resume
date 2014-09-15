@@ -6,5 +6,5 @@ body {
    border: 40px solid grey;
    Font-family: "Century Schoolbook", century, sarif;
    }
-h1, .address, .email {text-align: center;}
+h2, .address, .email {text-align: center;}
 h4 {color:#333399; }
